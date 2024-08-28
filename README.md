@@ -1,4 +1,4 @@
-<h1 align="center">Hello There! 👋 Shaik Anas</h1>
+<h1 align="center">Hello There! 👋 I am Shaik Anas</h1>
 <h3 align="center">Building solutions to solve business problems through AI, Data Science and GenAI</h3>
 
 - 🔭 I’m currently working on **GenAI in Personalized Medicine**
